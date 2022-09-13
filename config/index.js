@@ -29,9 +29,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "eCRHKLipiS-39VWKSDFaBiULs8QwjgHgFPdCyVEnRX4",
       // 所在省份
-      province: "广东",
+      province: "河南",
       // 所在城市
-      city: "肇庆",
+      city: "南阳",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
