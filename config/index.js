@@ -31,7 +31,7 @@ export const config = {
       // 所在省份
       province: "江苏",
       // 所在城市
-      city: "无锡",
+      city: "惠山区",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '10-05',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -62,7 +62,7 @@ export const config = {
       id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
       useTemplateId: "nKbjjssL62XGxaDV3WmpW8D8W6gHAjlzJxKmxrNx2vM",
       province: "江苏",
-      city: "无锡",
+      city: "惠山区",
       horoscopeDate: '10-05',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
