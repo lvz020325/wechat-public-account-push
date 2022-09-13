@@ -59,7 +59,7 @@ export const config = {
     },
     {
       name: "Jinz",
-      id: "o1RJz6DlgNEWFsee3prz2bnZ89o4",
+      id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
       useTemplateId: "nKbjjssL62XGxaDV3WmpW8D8W6gHAjlzJxKmxrNx2vM	",
       province: "江苏",
       city: "无锡",
