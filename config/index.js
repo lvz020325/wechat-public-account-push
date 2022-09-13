@@ -27,11 +27,11 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "o3rnzs22QQPzyxVWiCfYtC8WJ-5roIxEmShUCYngTVs",
+      useTemplateId: "euP6_TJ6FG55LGCzGJmt8xhQddhLAChhsBk1hbooIe0",
       // 所在省份
       province: "江苏",
       // 所在城市
-      city: "惠山区",
+      city: "无锡",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '10-05',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -60,35 +60,11 @@ export const config = {
     {
       name: "Jinz",
       id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
-      useTemplateId: "o3rnzs22QQPzyxVWiCfYtC8WJ-5roIxEmShUCYngTVs",
+      useTemplateId: "euP6_TJ6FG55LGCzGJmt8xhQddhLAChhsBk1hbooIe0",
       province: "江苏",
-      city: "惠山区",
+      city: "无锡",
       horoscopeDate: '10-05',
       horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
