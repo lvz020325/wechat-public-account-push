@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "wxed6715c73847cd57",
+  APP_ID: "wxc041c90f159fb5e8",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "df1950f019ba0678f13ec90f9bfe6dbb",
+  APP_SECRET: "7a77f8628769dff8fffc44391799dc47",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -23,15 +23,15 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "Jinz",
+      name: "ZJH",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "41WKOTFq0CbyyIU09K-FkowCBQtYhxC1MgBG2CUJSLY",
+      useTemplateId: "8byFsQaHRpxndFiH_yNRgs35VxwbelY5tsDRXv4Mark",
       // 所在省份
-      province: "江苏",
+      province: "河南",
       // 所在城市
-      city: "无锡",
+      city: "南阳",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '10-05',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -58,11 +58,11 @@ export const config = {
       ]
     },
     {
-      name: "Jinz",
+      name: "ZJH",
       id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
-      useTemplateId: "41WKOTFq0CbyyIU09K-FkowCBQtYhxC1MgBG2CUJSLY",
-      province: "江苏",
-      city: "无锡",
+      useTemplateId: "8byFsQaHRpxndFiH_yNRgs35VxwbelY5tsDRXv4Mark",
+      province: "河南",
+      city: "南阳",
       horoscopeDate: '10-05',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
@@ -168,13 +168,7 @@ export const config = {
     {"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
-      "因为太喜欢你，所以看谁都像是情敌",
-      "申请成为你爱里的永久居民",
-      "你很傻，你很笨，可我还是很羡慕你，因为你有我",
-      "遇见你，就好像捡到了100斤的运气",
-      "遇见你爱意汹涌，看世间万物都浪漫心动",
-      "想把你偷偷藏起来，你只能是我一个人的喜欢，又在为数不多时候想把你展现给所有人，喏，这是我的",
-      "小姐，谈恋爱吗?我负责整天在你面前叽叽喳喳，你负责听和笑还有揉揉我的脑袋就好了",
+      "王一博永远爱你",  
     ]},
     // 你可以不断按格式往下增加
     // ...
