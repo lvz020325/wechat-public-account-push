@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "ZJH",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
+      id: "okTGO52Jo7box29LbasjnWZUgzGk",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "8byFsQaHRpxndFiH_yNRgs35VxwbelY5tsDRXv4Mark",
       // 所在省份
@@ -59,7 +59,7 @@ export const config = {
     },
     {
       name: "ZJH",
-      id: "o1RJz6GlUvXihwcE0iQWux_JI6bQ",
+      id: "okTGO52Jo7box29LbasjnWZUgzGk",
       useTemplateId: "8byFsQaHRpxndFiH_yNRgs35VxwbelY5tsDRXv4Mark",
       province: "河南",
       city: "南阳",
